@@ -1,5 +1,5 @@
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://hitch.adolphin.ibco.dob.jp" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://hitch.adolphin.ibco.dob.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
