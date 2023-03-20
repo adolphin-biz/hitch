@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "关于更换集团 VI 视觉系统的公告"
+date:   2022-2-14 0:01:00 +0800
+image:  main-image-2.jpg
+tags:   动态
+---
+
+
+*为进一步体现本集团“一如既往地坚持客户为先，以一流的方式提供一流的服务”的核心价值观，更进一步为全球客户提供更优质的大宗经纪服务、融资等服务，本集团的對外企业视觉识别系统（VI）已经更换，特此公告。*<br><br>
+![]({{site.baseurl}}/images/LOGO-WEBSITE.png)<br><br>
+~旧~  
+<br><br><br>
+![]({{site.baseurl}}/images/logo-zh_CN.png)<br>
+![]({{site.baseurl}}/images/logo.png)<br>
+~新~  

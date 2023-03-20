@@ -1,0 +1,44 @@
+#-------------------------------
+# General Site Settings
+title: 盛庭集势（國際）資產管理控股集团
+logo: logo-website.png # You can add own logo.
+description: SUNTECH AMC GROUP
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: SUNTECH AMC GROUP
+  image: main-image.jpg
+  say-hello: Howdy！  <strong>盛庭集势（國際）資產管理控股集团（SUNTECH AMC GROUP）</strong>
+  bio: 一家專注國際資產管理、股權投資等投資業務的国际投资银行。自成立以来，一如既往地以一流的方式提供一流的服务。
+
+
+#-------------------------------
+# Contact links
+twitter: # # Add your Twitter handle
+facebook: # # Add your Facebook handle
+dribbble: # # Add your Dribbble handle
+instagram: # # Add your Instagram handle
+pinterest: # # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false# To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
