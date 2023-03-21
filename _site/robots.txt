@@ -1,1 +1,1 @@
-Sitemap: http://hitch.adolphin.ibco.dob.jp/sitemap.xml
+Sitemap: /sitemap.xml
