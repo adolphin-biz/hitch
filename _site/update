@@ -1,0 +1,9 @@
+echo 'Updating Website'
+sleep 2
+
+bundle exec jekyll build
+git add .
+git commit -m "jekyll"
+git push origin master
+
+echo 'update finish'
